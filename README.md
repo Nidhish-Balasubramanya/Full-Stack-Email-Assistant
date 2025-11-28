@@ -108,6 +108,18 @@ Frontend will run at:\
 
 ------------------------------------------------------------------------
 
+## 6. Publicly Hosterd Websites
+
+Frontend Webapp : [https://intelligent-email-assistant-frontend.onrender.com/]([url](https://intelligent-email-assistant-frontend.onrender.com/))
+Backend FastAPI Swagger UI : [https://intelligent-email-assistant.onrender.com/docs]([url](https://intelligent-email-assistant.onrender.com/docs))
+
+------------------------------------------------------------------------
+
+## 7. Demo video (Screen Recording) 
+
+[![Watch the video](thumbnail.png)](https://github.com/your-username/your-repo/raw/main/video.mp4)
+
+
 ## 6. How to Load the Mock Inbox
 
 On first launch: - The UI automatically checks if emails exist. - If
@@ -387,5 +399,6 @@ Supported variables:
 - Email scheduling  
 
 ---
+
 
 
