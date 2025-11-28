@@ -110,49 +110,20 @@ Frontend will run at:\
 
 ## 6. Publicly Hosterd Websites
 
-Frontend Webapp : [https://intelligent-email-assistant-frontend.onrender.com/]([url](https://intelligent-email-assistant-frontend.onrender.com/))
-Backend FastAPI Swagger UI : [https://intelligent-email-assistant.onrender.com/docs]([url](https://intelligent-email-assistant.onrender.com/docs))
+Frontend Webapp : [https://intelligent-email-assistant-frontend.onrender.com/](https://intelligent-email-assistant-frontend.onrender.com/)
+
+Backend FastAPI Swagger UI : [https://intelligent-email-assistant.onrender.com/docs](https://intelligent-email-assistant.onrender.com/docs)
 
 ------------------------------------------------------------------------
 
 ## 7. Demo video (Screen Recording) 
 
-[![Watch the video](thumbnail.png)](https://github.com/your-username/your-repo/raw/main/video.mp4)
+Clcik below
 
-
-## 6. How to Load the Mock Inbox
-
-On first launch: - The UI automatically checks if emails exist. - If
-empty, it will load **mock_emails.json** from the backend.
-
-Manual loading (via API):
-
-    POST /api/inbox/load
-
-From UI: - Go to **Inbox** page\
-- Click **Load Mock Inbox** (if shown)
+[![Watch the video](thumbnail.png)](https://drive.google.com/file/d/1TbdxwTrI7nzdyl04VKAP4dMBuqANJGsk/view?usp=sharing)
 
 ------------------------------------------------------------------------
 
-## 7. How to Configure Prompts
-
-Navigate to **Prompts Panel** in the Streamlit sidebar.
-
-Editable prompt templates: - Categorization Prompt\
-- Action Item Extraction Prompt\
-- Draft Reply Prompt\
-- Summarization Prompt\
-- Custom Query Prompt
-
-Each template supports variables such as:
-
-    {email_body}
-    {user_query}
-    {tone}
-
-Prompts are stored in the database and persist across restarts.
-
-------------------------------------------------------------------------
 
 ## 8. Usage Examples
 
@@ -223,7 +194,7 @@ Agent Page → Select Email → Ask:
 
 ## 11. Folder Structure
 ```
-intelligent-email-assistant/
+Full Stack-email-assistant/
 │
 ├── backend/
 │   ├── app/
@@ -399,6 +370,7 @@ Supported variables:
 - Email scheduling  
 
 ---
+
 
 
 
